@@ -1,7 +1,7 @@
 BTCAddrValidator
 =================
 
-This is a simple address validator of Bitcoin support address start with "1" or "3" implemented by Java. You copy code of BTCAddrValidator.java to your project for bitcoin address check using:
+This is a simple address validator of Bitcoin support address start with "1" or "3" implemented by Java. You can copy code of BTCAddrValidator.java to your project for bitcoin address check using:
 
 ```java
 String addr = "1PeFZno9AG3uDeNk57sfpBJ3HMBWLve6Si";
